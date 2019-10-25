@@ -3,7 +3,14 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-    production: false
+    production: false,
+    showLog: true,
+    //apiUrl: 'https://localhost:44307/',
+    //imgUrl: 'https://localhost:44307/assets/img/',
+    //apiUrl: 'https://localhost:44384/',
+    //imgUrl: 'https://localhost:44384/assets/img/',
+    apiUrl: 'http://appointvn.com:5050/',
+    imgUrl: 'http://appointvn.com:5050/assets/img/',
 };
 
 /*
